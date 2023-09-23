@@ -3,10 +3,14 @@
 Pre-Requisites
  - Create App Configuration
  - Create configuration value and feature toggle
-   
-![Configuration](https://github.com/niravmsoni/azure-app-service-using-feature-flags/assets/6556021/b8239894-dfbd-46bf-ad0c-b7f8555f564a)
 
-![FeatureManager](https://github.com/niravmsoni/azure-app-service-using-feature-flags/assets/6556021/d7d082ed-bbed-4a5a-a414-cff037b4697e)
+Configuration
+![Configuration](https://github.com/niravmsoni/azure-app-configuration/assets/6556021/71092880-99e1-4dbc-ac9c-b1df20741875)
+
+Feature Manager
+
+![FeatureManager](https://github.com/niravmsoni/azure-app-configuration/assets/6556021/0ad71d4f-e7e7-4dba-95d2-69aa733f6445)
+
 
 # Code Changes
 
@@ -33,4 +37,5 @@ Packages required
     var app = builder.Build();
 
 # Consuming Configuration and Feature Flag
-  ![image](https://github.com/niravmsoni/azure-app-service-using-feature-flags/assets/6556021/9977e638-c68c-491b-94d6-a219e37c69ca)
+![image](https://github.com/niravmsoni/azure-app-configuration/assets/6556021/f67a1a2f-6043-4000-8d55-4d7efcab2176)
+
